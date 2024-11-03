@@ -185,7 +185,7 @@ and drivers_license.plate_number like '%H42W%'
 
 <details>
     <summary>Answer</summary>
-    *Miranda Priestly*
+    <i>Miranda Priestly</i>
 </details>
 
 > Congrats, you found the brains behind the murder! Everyone in SQL City hails you as the greatest SQL detective of all time. Time to break out the champagne!
